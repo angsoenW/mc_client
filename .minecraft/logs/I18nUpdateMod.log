@@ -1,0 +1,10 @@
+[2023-06-19 23:38:51] [INFO]: I18nUpdate Mod 3.4.2 is loaded in 1.12.2 with Forge
+[2023-06-19 23:38:51] [DEBUG]: Minecraft path: C:\Users\Jazel\Desktop\mcclient'\.minecraft
+[2023-06-19 23:38:51] [DEBUG]: User home: C:\Users\Jazel
+[2023-06-19 23:38:51] [DEBUG]: Both temp and current file not found
+[2023-06-19 23:38:51] [DEBUG]: Local file C:\Users\Jazel\.i18nupdatemod\1.12.2\Minecraft-Mod-Language-Modpack.zip not exist.
+[2023-06-19 23:38:51] [INFO]: Downloading: http://downloader1.meitangdehulu.com:22943/Minecraft-Mod-Language-Modpack.zip -> C:\Users\Jazel\.i18nupdatemod\1.12.2\Minecraft-Mod-Language-Modpack.zip.tmp
+[2023-06-19 23:38:56] [DEBUG]: C:\Users\Jazel\.i18nupdatemod\1.12.2\Minecraft-Mod-Language-Modpack.zip.tmp md5: bd5fa90c2b50e4db3ceda20e1779a78b, remote md5: BD5FA90C2B50E4DB3CEDA20E1779A78B
+[2023-06-19 23:38:56] [DEBUG]: Updates temp file: C:\Users\Jazel\.i18nupdatemod\1.12.2\Minecraft-Mod-Language-Modpack.zip
+[2023-06-19 23:38:56] [INFO]: Synchronized: C:\Users\Jazel\.i18nupdatemod\1.12.2\Minecraft-Mod-Language-Modpack.zip -> C:\Users\Jazel\Desktop\mcclient'\.minecraft\resourcepacks\Minecraft-Mod-Language-Modpack.zip
+[2023-06-19 23:38:56] [INFO]: Resource Packs: ["Minecraft-Mod-Language-Modpack.zip"]
